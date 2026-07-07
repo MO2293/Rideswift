@@ -103,7 +103,7 @@ export default function MapView({
 }: MapViewProps) {
   // Load Google Maps API
   const { isLoaded, loadError } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyAdBAQgjgUCVRqVttHZDAxglqKRtUGgWdc",
+    googleMapsApiKey: import.meta.env.VITE_GOOGLE_MAPS_API_KEY,
     libraries
   });
 
