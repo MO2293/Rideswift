@@ -27,4 +27,5 @@ A full-stack ridesharing platform built with TypeScript, React, and PostgreSQL â
 
 <img width="2874" height="1490" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ca9c7224-cf8a-45a6-a5b9-04182a31d05a" />
 <img width="2880" height="1443" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/19ae9753-7360-4754-8fd0-24bf7cd11513" />
-<img width="2880" height="1800" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/0ea05667-03d6-4f97-ba69-7288ac82b8fb" />
+<img width="2880" height="1453" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4fd03bf8-1ca4-476b-a461-0d830f8e06eb" />
+
